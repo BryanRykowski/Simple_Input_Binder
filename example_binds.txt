@@ -1,0 +1,8 @@
+scancode Q q
+scancode UP up
+wheelup scroll_up
+mbutton LEFT left_mb
+caxis LEFTYPOS left_stick_down
+caxis TRIGGERLEFT left_trigger
+caxis TRIGGERRIGHT right_trigger
+cbutton A button_a
